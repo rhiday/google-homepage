@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    float: right;
+}
+
+.header a, .header button {
+    margin: 10px;
+    color: #000;
+    text-decoration: none;
+}
+
+.header button {
+    background-color: #4484f1;
+    padding: 8px;
+    font-size: 14px;
+    color: white;
+    border-radius: 10%;
+    font-weight: bold;
+}
+
+.main {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo-img img {
+    width: 272px;
+    height: 92px;
+}
