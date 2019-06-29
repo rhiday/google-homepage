@@ -1,1 +1,1 @@
-Practice HTML/CSS project
+A simple project to practice HTML/CSS. Cloned the outlook of Google homepage.
